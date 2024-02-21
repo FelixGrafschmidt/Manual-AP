@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Progressive Main Story",
+        "category": [],
+        "count": 47,
+        "progression": true
+    },
+    {
+        "name": "Progressive Armor",
+        "category": [],
+        "count": 5,
+        "progression": true
+    },
+    {
+        "name": "Class - Mesmer",
+        "category": [
+            "Base Class"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Class - Warrior",
+        "category": [
+            "Base Class"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Class - Monk",
+        "category": [
+            "Base Class"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Class - Ranger",
+        "category": [
+            "Base Class"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Class - Elementalist",
+        "category": [
+            "Base Class"
+        ],
+        "progression": true
+    },
+    {
+        "name": "Class - Necromancer",
+        "category": [
+            "Base Class"
+        ],
+        "progression": true
+    }
+]
