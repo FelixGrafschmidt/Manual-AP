@@ -372,7 +372,7 @@
         ]
     },
     {
-        "name": "Primary Quest - Sand of Souls",
+        "name": "Primary Quest - Sands of Souls",
         "category": [
             "Story",
             "Primary Quest",
@@ -1362,6 +1362,66 @@
         ],
         "requires": [
             "Progressive Main Story:25"
+        ]
+    },
+    {
+        "name": "Quest - A Belated Betrothal",
+        "category": [
+            "Quest",
+            "Crystal Desert"
+        ],
+        "requires": [
+            "Progressive Main Story:34"
+        ]
+    },
+    {
+        "name": "Quest - Ancient Secrets",
+        "category": [
+            "Quest",
+            "Crystal Desert"
+        ],
+        "requires": [
+            "Progressive Main Story:34"
+        ]
+    },
+    {
+        "name": "Quest - Forgotten Wisdom",
+        "category": [
+            "Quest",
+            "Crystal Desert"
+        ],
+        "requires": [
+            "Progressive Main Story:34"
+        ]
+    },
+    {
+        "name": "Quest - Ghostly Vengeance",
+        "category": [
+            "Quest",
+            "Crystal Desert"
+        ],
+        "requires": [
+            "Progressive Main Story:34"
+        ]
+    },
+    {
+        "name": "Quest - Into the Unknown",
+        "category": [
+            "Quest",
+            "Crystal Desert"
+        ],
+        "requires": [
+            "Progressive Main Story:34"
+        ]
+    },
+    {
+        "name": "Quest - The Forgotten Ones",
+        "category": [
+            "Quest",
+            "Crystal Desert"
+        ],
+        "requires": [
+            "Progressive Main Story:34"
         ]
     }
 ]
