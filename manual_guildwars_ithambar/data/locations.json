@@ -1133,5 +1133,175 @@
         "requires": [
             "Progressive Main Story:15"
         ]
+    },
+    {
+        "name": "Quest - Bandit Trouble",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": [
+            "Progressive Main Story:21"
+        ]
+    },
+    {
+        "name": "Quest - Blankets for the Settlers",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": [
+            "Progressive Main Story:21"
+        ]
+    },
+    {
+        "name": "Quest - Duties of a Lionguard",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": [
+            "Progressive Main Story:21"
+        ]
+    },
+    {
+        "name": "Quest - Graven Images",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": [
+            "Progressive Main Story:21"
+        ]
+    },
+    {
+        "name": "Quest - Malaquire's Test",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": [
+            "Progressive Main Story:21"
+        ]
+    },
+    {
+        "name": "Quest - Merchant's Plea",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": [
+            "Progressive Main Story:21"
+        ]
+    },
+    {
+        "name": "Quest - Orrian Excavation",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": [
+            "Progressive Main Story:21"
+        ]
+    },
+    {
+        "name": "Quest - Reversing the Skales",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": [
+            "Progressive Main Story:21"
+        ]
+    },
+    {
+        "name": "Quest - The Ascalon Settlement",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": [
+            "Progressive Main Story:21"
+        ]
+    },
+    {
+        "name": "Quest - The False Gods",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": [
+            "Progressive Main Story:21"
+        ]
+    },
+    {
+        "name": "Quest - The Hot Springs Murders",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": [
+            "Progressive Main Story:21"
+        ]
+    },
+    {
+        "name": "Quest - The Last Hog",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": [
+            "Progressive Main Story:21"
+        ]
+    },
+    {
+        "name": "Quest - The Lost Princess",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": [
+            "Progressive Main Story:21"
+        ]
+    },
+    {
+        "name": "Quest - The Royal Papers",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": [
+            "Progressive Main Story:21"
+        ]
+    },
+    {
+        "name": "Quest - The Undead Hordes",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": [
+            "Progressive Main Story:21"
+        ]
+    },
+    {
+        "name": "Quest - The Villainy of Galrath",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": [
+            "Progressive Main Story:21"
+        ]
+    },
+    {
+        "name": "Quest - The Weaver of Nebo",
+        "category": [
+            "Quest",
+            "Kryta"
+        ],
+        "requires": [
+            "Progressive Main Story:21"
+        ]
     }
 ]
