@@ -1939,5 +1939,85 @@
             "Northern Shiverpeaks"
         ],
         "requires": "|Progressive Main Story:15|"
+    },
+    {
+        "name": "Reach Lion's Arch",
+        "category": [
+            "Location",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Reach Beetletun",
+        "category": [
+            "Location",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Reach Bergen Hot Springs",
+        "category": [
+            "Location",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Reach Fishermen's Haven",
+        "category": [
+            "Location",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Reach Temple of the Ages",
+        "category": [
+            "Location",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Reach D'Alessio Seaboard",
+        "category": [
+            "Location",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Reach Divinity Coast",
+        "category": [
+            "Location",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Reach Gates of Kryta",
+        "category": [
+            "Location",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Reach Riverside Province",
+        "category": [
+            "Location",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Reach Sanctum Cay",
+        "category": [
+            "Location",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
     }
 ]
