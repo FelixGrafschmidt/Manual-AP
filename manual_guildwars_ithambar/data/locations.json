@@ -1033,5 +1033,105 @@
         "requires": [
             "Progressive Main Story:8"
         ]
+    },
+    {
+        "name": "Quest - Helping the Dwarves",
+        "category": [
+            "Quest",
+            "Northern Shiverpeaks"
+        ],
+        "requires": [
+            "Progressive Main Story:15"
+        ]
+    },
+    {
+        "name": "Quest - Hungry Devourer",
+        "category": [
+            "Quest",
+            "Northern Shiverpeaks"
+        ],
+        "requires": [
+            "Progressive Main Story:15"
+        ]
+    },
+    {
+        "name": "Quest - Iron Horse War Machine",
+        "category": [
+            "Quest",
+            "Northern Shiverpeaks"
+        ],
+        "requires": [
+            "Progressive Main Story:15"
+        ]
+    },
+    {
+        "name": "Quest - Minaar's Trouble",
+        "category": [
+            "Quest",
+            "Northern Shiverpeaks"
+        ],
+        "requires": [
+            "Progressive Main Story:15"
+        ]
+    },
+    {
+        "name": "Quest - Minaar's Worry",
+        "category": [
+            "Quest",
+            "Northern Shiverpeaks"
+        ],
+        "requires": [
+            "Progressive Main Story:15"
+        ]
+    },
+    {
+        "name": "Quest - Oswalt's Epitaph",
+        "category": [
+            "Quest",
+            "Northern Shiverpeaks"
+        ],
+        "requires": [
+            "Progressive Main Story:15"
+        ]
+    },
+    {
+        "name": "Quest - Shiverpeak Stragglers",
+        "category": [
+            "Quest",
+            "Northern Shiverpeaks"
+        ],
+        "requires": [
+            "Progressive Main Story:15"
+        ]
+    },
+    {
+        "name": "Quest - The Deserters",
+        "category": [
+            "Quest",
+            "Northern Shiverpeaks"
+        ],
+        "requires": [
+            "Progressive Main Story:15"
+        ]
+    },
+    {
+        "name": "Quest - The Missing Artisan",
+        "category": [
+            "Quest",
+            "Northern Shiverpeaks"
+        ],
+        "requires": [
+            "Progressive Main Story:15"
+        ]
+    },
+    {
+        "name": "Quest - The Road to Borlis Pass",
+        "category": [
+            "Quest",
+            "Northern Shiverpeaks"
+        ],
+        "requires": [
+            "Progressive Main Story:15"
+        ]
     }
 ]
