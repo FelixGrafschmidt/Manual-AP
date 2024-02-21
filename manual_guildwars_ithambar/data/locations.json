@@ -2243,5 +2243,37 @@
             "Southern Shiverpeaks"
         ],
         "requires": "|Progressive Main Story:40|"
+    },
+    {
+        "name": "Reach Ember Light Camp",
+        "category": [
+            "Location",
+            "Ring of Fire Islands"
+        ],
+        "requires": "|Progressive Main Story:44|"
+    },
+    {
+        "name": "Reach Abaddon's Mouth",
+        "category": [
+            "Location",
+            "Ring of Fire Islands"
+        ],
+        "requires": "|Progressive Main Story:44|"
+    },
+    {
+        "name": "Reach Hell's Precipice",
+        "category": [
+            "Location",
+            "Ring of Fire Islands"
+        ],
+        "requires": "|Progressive Main Story:44|"
+    },
+    {
+        "name": "Reach Ring of Fire",
+        "category": [
+            "Location",
+            "Ring of Fire Islands"
+        ],
+        "requires": "|Progressive Main Story:44|"
     }
 ]
