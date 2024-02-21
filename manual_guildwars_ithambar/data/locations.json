@@ -1,10 +1,143 @@
 [
     {
+        "name": "Reach Level 2",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 3",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 4",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 5",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 6",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 7",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 8",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 9",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 10",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 11",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 12",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 13",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 14",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 15",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 16",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 17",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 18",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 19",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Level 20",
+        "category": [
+            "Level"
+        ],
+        "requires": []
+    },
+    {
         "name": "Primary Quest - Message from a Friend",
         "category": [
             "Story",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Ascalon (pre-Searing)"
         ],
         "requires": []
     },
@@ -13,7 +146,7 @@
         "category": [
             "Story",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Ascalon (pre-Searing)"
         ],
         "requires": "|Progressive Main Story:1|"
     },
@@ -22,7 +155,7 @@
         "category": [
             "Story",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Ascalon (pre-Searing)"
         ],
         "requires": "|Progressive Main Story:2|"
     },
@@ -31,7 +164,7 @@
         "category": [
             "Story",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Ascalon (pre-Searing)"
         ],
         "requires": "|Progressive Main Story:3|"
     },
@@ -40,7 +173,7 @@
         "category": [
             "Story",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Ascalon (pre-Searing)"
         ],
         "requires": "|Progressive Main Story:4|"
     },
@@ -49,16 +182,16 @@
         "category": [
             "Story",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Ascalon (pre-Searing)"
         ],
-        "requires": "|Progressive Main Story:5| AND ( |Class - Mesmer| OR |Class - Warrior| OR |Class - Monk| OR |Class - Ranger| OR |Class - Elementalist| OR |Class - Necromancer| ):2"
+        "requires": "|@Base Class:2| and |Progressive Main Story:5|"
     },
     {
         "name": "Primary Quest - The Path to Glory",
         "category": [
             "Story",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Ascalon (pre-Searing)"
         ],
         "requires": "|Progressive Main Story:6|"
     },
@@ -67,7 +200,7 @@
         "category": [
             "Story",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Ascalon (pre-Searing)"
         ],
         "requires": "|Progressive Main Story:7|"
     },
@@ -76,7 +209,7 @@
         "category": [
             "Story",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Ascalon"
         ],
         "requires": "|Progressive Main Story:8|"
     },
@@ -85,7 +218,7 @@
         "category": [
             "Story",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Ascalon"
         ],
         "requires": "|Progressive Main Story:9|"
     },
@@ -93,8 +226,18 @@
         "name": "Mission - The Great Northern Wall",
         "category": [
             "Story",
+            "Mission",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:10|"
+    },
+    {
+        "name": "Bonus - The Great Northern Wall",
+        "category": [
+            "Story",
+            "Bonus",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Ascalon"
         ],
         "requires": "|Progressive Main Story:10|"
     },
@@ -102,8 +245,18 @@
         "name": "Mission - Fort Ranik",
         "category": [
             "Story",
+            "Mission",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:11|"
+    },
+    {
+        "name": "Bonus - Fort Ranik",
+        "category": [
+            "Story",
+            "Bonus",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Ascalon"
         ],
         "requires": "|Progressive Main Story:11|"
     },
@@ -112,7 +265,7 @@
         "category": [
             "Story",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Ascalon"
         ],
         "requires": "|Progressive Main Story:12|"
     },
@@ -120,8 +273,18 @@
         "name": "Mission - Ruins of Surmia",
         "category": [
             "Story",
+            "Mission",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:13|"
+    },
+    {
+        "name": "Bonus - Ruins of Surmia",
+        "category": [
+            "Story",
+            "Bonus",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Ascalon"
         ],
         "requires": "|Progressive Main Story:13|"
     },
@@ -129,8 +292,18 @@
         "name": "Mission - Nolani Academy",
         "category": [
             "Story",
+            "Mission",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:14|"
+    },
+    {
+        "name": "Bonus - Nolani Academy",
+        "category": [
+            "Story",
+            "Bonus",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Ascalon"
         ],
         "requires": "|Progressive Main Story:14|"
     },
@@ -139,7 +312,7 @@
         "category": [
             "Story",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Northern Shiverpeaks"
         ],
         "requires": "|Progressive Main Story:15|"
     },
@@ -147,8 +320,18 @@
         "name": "Mission - Borlis Pass",
         "category": [
             "Story",
+            "Mission",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:16|"
+    },
+    {
+        "name": "Bonus - Borlis Pass",
+        "category": [
+            "Story",
+            "Bonus",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Northern Shiverpeaks"
         ],
         "requires": "|Progressive Main Story:16|"
     },
@@ -156,8 +339,18 @@
         "name": "Mission - The Frost Gate",
         "category": [
             "Story",
+            "Mission",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:17|"
+    },
+    {
+        "name": "Bonus - The Frost Gate",
+        "category": [
+            "Story",
+            "Bonus",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Northern Shiverpeaks"
         ],
         "requires": "|Progressive Main Story:17|"
     },
@@ -166,7 +359,7 @@
         "category": [
             "Story",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Northern Shiverpeaks"
         ],
         "requires": "|Progressive Main Story:18|"
     },
@@ -175,7 +368,7 @@
         "category": [
             "Story",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Northern Shiverpeaks"
         ],
         "requires": "|Progressive Main Story:19|"
     },
@@ -184,7 +377,7 @@
         "category": [
             "Story",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Northern Shiverpeaks"
         ],
         "requires": "|Progressive Main Story:20|"
     },
@@ -192,8 +385,18 @@
         "name": "Mission - Gates of Kryta",
         "category": [
             "Story",
+            "Mission",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Bonus - Gates of Kryta",
+        "category": [
+            "Story",
+            "Bonus",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Kryta"
         ],
         "requires": "|Progressive Main Story:21|"
     },
@@ -202,7 +405,7 @@
         "category": [
             "Story",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Kryta"
         ],
         "requires": "|Progressive Main Story:22|"
     },
@@ -210,8 +413,18 @@
         "name": "Mission - D'Alessio Seaboard",
         "category": [
             "Story",
+            "Mission",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:23|"
+    },
+    {
+        "name": "Bonus - D'Alessio Seaboard",
+        "category": [
+            "Story",
+            "Bonus",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Kryta"
         ],
         "requires": "|Progressive Main Story:23|"
     },
@@ -219,8 +432,18 @@
         "name": "Mission - Divinity Coast",
         "category": [
             "Story",
+            "Mission",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:24|"
+    },
+    {
+        "name": "Bonus - Divinity Coast",
+        "category": [
+            "Story",
+            "Bonus",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Kryta"
         ],
         "requires": "|Progressive Main Story:24|"
     },
@@ -229,7 +452,7 @@
         "category": [
             "Story",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Maguuma Jungle"
         ],
         "requires": "|Progressive Main Story:25|"
     },
@@ -237,8 +460,18 @@
         "name": "Mission - The Wilds",
         "category": [
             "Story",
+            "Mission",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:26|"
+    },
+    {
+        "name": "Bonus - The Wilds",
+        "category": [
+            "Story",
+            "Bonus",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Maguuma Jungle"
         ],
         "requires": "|Progressive Main Story:26|"
     },
@@ -246,8 +479,18 @@
         "name": "Mission - Bloodstone Fen",
         "category": [
             "Story",
+            "Mission",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:27|"
+    },
+    {
+        "name": "Bonus - Bloodstone Fen",
+        "category": [
+            "Story",
+            "Bonus",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Maguuma Jungle"
         ],
         "requires": "|Progressive Main Story:27|"
     },
@@ -256,7 +499,7 @@
         "category": [
             "Story",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Maguuma Jungle"
         ],
         "requires": "|Progressive Main Story:28|"
     },
@@ -265,7 +508,7 @@
         "category": [
             "Story",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Maguuma Jungle"
         ],
         "requires": "|Progressive Main Story:29|"
     },
@@ -273,8 +516,18 @@
         "name": "Mission - Aurora Glade",
         "category": [
             "Story",
+            "Mission",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:30|"
+    },
+    {
+        "name": "Bonus - Aurora Glade",
+        "category": [
+            "Story",
+            "Bonus",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Maguuma Jungle"
         ],
         "requires": "|Progressive Main Story:30|"
     },
@@ -283,7 +536,7 @@
         "category": [
             "Story",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Maguuma Jungle"
         ],
         "requires": "|Progressive Main Story:31|"
     },
@@ -291,8 +544,18 @@
         "name": "Mission - Riverside Province",
         "category": [
             "Story",
+            "Mission",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:32|"
+    },
+    {
+        "name": "Bonus - Riverside Province",
+        "category": [
+            "Story",
+            "Bonus",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Kryta"
         ],
         "requires": "|Progressive Main Story:32|"
     },
@@ -300,8 +563,18 @@
         "name": "Mission - Sanctum Cay",
         "category": [
             "Story",
+            "Mission",
+            "Kryta"
+        ],
+        "requires": "|Progressive Main Story:33|"
+    },
+    {
+        "name": "Bonus - Sanctum Cay",
+        "category": [
+            "Story",
+            "Bonus",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Kryta"
         ],
         "requires": "|Progressive Main Story:33|"
     },
@@ -310,7 +583,7 @@
         "category": [
             "Story",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Crystal Desert"
         ],
         "requires": "|Progressive Main Story:34|"
     },
@@ -318,8 +591,18 @@
         "name": "Mission - Dunes of Despair",
         "category": [
             "Story",
+            "Mission",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:35|"
+    },
+    {
+        "name": "Bonus - Dunes of Despair",
+        "category": [
+            "Story",
+            "Bonus",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Crystal Desert"
         ],
         "requires": "|Progressive Main Story:35|"
     },
@@ -327,8 +610,18 @@
         "name": "Mission - Thirsty River",
         "category": [
             "Story",
+            "Mission",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:36|"
+    },
+    {
+        "name": "Bonus - Thirsty River",
+        "category": [
+            "Story",
+            "Bonus",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Crystal Desert"
         ],
         "requires": "|Progressive Main Story:36|"
     },
@@ -336,8 +629,18 @@
         "name": "Mission - Elona Reach",
         "category": [
             "Story",
+            "Mission",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:37|"
+    },
+    {
+        "name": "Bonus - Elona Reach",
+        "category": [
+            "Story",
+            "Bonus",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Crystal Desert"
         ],
         "requires": "|Progressive Main Story:37|"
     },
@@ -345,8 +648,18 @@
         "name": "Mission - Augury Rock",
         "category": [
             "Story",
+            "Mission",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:38|"
+    },
+    {
+        "name": "Bonus - Augury Rock",
+        "category": [
+            "Story",
+            "Bonus",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Crystal Desert"
         ],
         "requires": "|Progressive Main Story:38|"
     },
@@ -354,8 +667,18 @@
         "name": "Mission - The Dragon's Lair",
         "category": [
             "Story",
+            "Mission",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:39|"
+    },
+    {
+        "name": "Bonus - The Dragon's Lair",
+        "category": [
+            "Story",
+            "Bonus",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Crystal Desert"
         ],
         "requires": "|Progressive Main Story:39|"
     },
@@ -364,7 +687,7 @@
         "category": [
             "Story",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Southern Shiverpeaks"
         ],
         "requires": "|Progressive Main Story:40|"
     },
@@ -372,8 +695,18 @@
         "name": "Mission - Ice Caves of Sorrow",
         "category": [
             "Story",
+            "Mission",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:41|"
+    },
+    {
+        "name": "Bonus - Ice Caves of Sorrow",
+        "category": [
+            "Story",
+            "Bonus",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Southern Shiverpeaks"
         ],
         "requires": "|Progressive Main Story:41|"
     },
@@ -381,8 +714,18 @@
         "name": "Mission - Iron Mines of Moladune",
         "category": [
             "Story",
+            "Mission",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:42|"
+    },
+    {
+        "name": "Bonus - Iron Mines of Moladune",
+        "category": [
+            "Story",
+            "Bonus",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Southern Shiverpeaks"
         ],
         "requires": "|Progressive Main Story:42|"
     },
@@ -390,8 +733,18 @@
         "name": "Mission - Thunderhead Keep",
         "category": [
             "Story",
+            "Mission",
+            "Southern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:43|"
+    },
+    {
+        "name": "Bonus - Thunderhead Keep",
+        "category": [
+            "Story",
+            "Bonus",
             "Primary Quest",
-            "Ring of Fire Islands"
+            "Southern Shiverpeaks"
         ],
         "requires": "|Progressive Main Story:43|"
     },
@@ -414,6 +767,15 @@
         "requires": "|Progressive Main Story:45|"
     },
     {
+        "name": "Bonus - Ring of Fire",
+        "category": [
+            "Story",
+            "Bonus",
+            "Ring of Fire Islands"
+        ],
+        "requires": "|Progressive Main Story:45|"
+    },
+    {
         "name": "Mission - Abaddon's Mouth",
         "category": [
             "Story",
@@ -423,15 +785,48 @@
         "requires": "|Progressive Main Story:46|"
     },
     {
+        "name": "Bonus - Abaddon's Mouth",
+        "category": [
+            "Story",
+            "Bonus",
+            "Ring of Fire Islands"
+        ],
+        "requires": "|Progressive Main Story:46|"
+    },
+    {
         "name": "Mission - Hell's Precipice",
         "category": [
             "Story",
             "Mission",
-            "Ring of Fire Islands",
-            "Victory"
+            "Ring of Fire Islands"
         ],
         "requires": "|Progressive Main Story:47|",
-        "victory": "true"
+        "place_item": [
+            "Victory"
+        ]
+    },
+    {
+        "name": "Bonus - Hell's Precipice",
+        "category": [
+            "Story",
+            "Bonus",
+            "Ring of Fire Islands"
+        ],
+        "requires": "|Progressive Main Story:47|",
+        "place_item": [
+            "Victory"
+        ]
+    },
+    {
+        "name": "The Lich is defeated",
+        "category": [
+            "Story",
+            "Victory"
+        ],
+        "victory": "true",
+        "requires": [
+            "Victory"
+        ]
     },
     {
         "name": "Quest - A Gift for Althea",
@@ -1368,5 +1763,181 @@
             "Southern Shiverpeaks"
         ],
         "requires": "|Progressive Main Story:40|"
+    },
+    {
+        "name": "Reach Ascalon City (pre-Searing)",
+        "category": [
+            "Location",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Ashford Abbey",
+        "category": [
+            "Location",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Foible's Fair",
+        "category": [
+            "Location",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Fort Ranik (pre-Searing)",
+        "category": [
+            "Location",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach The Barradin Estate",
+        "category": [
+            "Location",
+            "Ascalon (pre-Searing)"
+        ],
+        "requires": []
+    },
+    {
+        "name": "Reach Ascalon City",
+        "category": [
+            "Location",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Reach Frontier Gate",
+        "category": [
+            "Location",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Reach Grendich Courthouse",
+        "category": [
+            "Location",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Reach Piken Square",
+        "category": [
+            "Location",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Reach Sardelac Sanitarium",
+        "category": [
+            "Location",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Reach Serenity Temple",
+        "category": [
+            "Location",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Reach Fort Ranik",
+        "category": [
+            "Location",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Reach Nolani Academy",
+        "category": [
+            "Location",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Reach Ruins of Surmia",
+        "category": [
+            "Location",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Reach The Great Northern Wall",
+        "category": [
+            "Location",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Reach Ascalon Arena",
+        "category": [
+            "Location",
+            "Ascalon"
+        ],
+        "requires": "|Progressive Main Story:8|"
+    },
+    {
+        "name": "Reach Beacon's Perch",
+        "category": [
+            "Location",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:15|"
+    },
+    {
+        "name": "Reach Ice Tooth Cave",
+        "category": [
+            "Location",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:15|"
+    },
+    {
+        "name": "Reach Yak's Bend",
+        "category": [
+            "Location",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:15|"
+    },
+    {
+        "name": "Reach Borlis Pass",
+        "category": [
+            "Location",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:15|"
+    },
+    {
+        "name": "Reach The Frost Gate",
+        "category": [
+            "Location",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:15|"
+    },
+    {
+        "name": "Reach Shiverpeak Arena",
+        "category": [
+            "Location",
+            "Northern Shiverpeaks"
+        ],
+        "requires": "|Progressive Main Story:15|"
     }
 ]
