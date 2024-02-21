@@ -2083,5 +2083,85 @@
             "Maguuma Jungle"
         ],
         "requires": "|Progressive Main Story:25|"
+    },
+    {
+        "name": "Reach The Amnoon Oasis",
+        "category": [
+            "Location",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:34|"
+    },
+    {
+        "name": "Reach Destiny's Gorge",
+        "category": [
+            "Location",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:34|"
+    },
+    {
+        "name": "Reach Heroes' Audience",
+        "category": [
+            "Location",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:34|"
+    },
+    {
+        "name": "Reach Seeker's Passage",
+        "category": [
+            "Location",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:34|"
+    },
+    {
+        "name": "Reach Tomb of the Primeval Kings",
+        "category": [
+            "Location",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:34|"
+    },
+    {
+        "name": "Reach Augury Rock",
+        "category": [
+            "Location",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:34|"
+    },
+    {
+        "name": "Reach Dunes of Despair",
+        "category": [
+            "Location",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:34|"
+    },
+    {
+        "name": "Reach Elona Reach",
+        "category": [
+            "Location",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:34|"
+    },
+    {
+        "name": "Reach Thirsty River",
+        "category": [
+            "Location",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:34|"
+    },
+    {
+        "name": "Reach The Dragon's Lair",
+        "category": [
+            "Location",
+            "Crystal Desert"
+        ],
+        "requires": "|Progressive Main Story:34|"
     }
 ]
