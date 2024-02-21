@@ -438,7 +438,7 @@
         ]
     },
     {
-        "name": "Primary Quest - Seeking the Sear",
+        "name": "Primary Quest - Seeking the Seer",
         "category": [
             "Story",
             "Primary Quest",
@@ -1422,6 +1422,186 @@
         ],
         "requires": [
             "Progressive Main Story:34"
+        ]
+    },
+    {
+        "name": "Quest - Cold One",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": [
+            "Progressive Main Story:40"
+        ]
+    },
+    {
+        "name": "Quest - Fire in the Hole",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": [
+            "Progressive Main Story:40"
+        ]
+    },
+    {
+        "name": "Quest - Gathering Resources",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": [
+            "Progressive Main Story:40"
+        ]
+    },
+    {
+        "name": "Quest - Kilroy Stonekin",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": [
+            "Progressive Main Story:40"
+        ]
+    },
+    {
+        "name": "Quest - Noble Intentions",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": [
+            "Progressive Main Story:40"
+        ]
+    },
+    {
+        "name": "Quest - Noble Intentions Plan B",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": [
+            "Progressive Main Story:40"
+        ]
+    },
+    {
+        "name": "Quest - Political Ramifications",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": [
+            "Progressive Main Story:40"
+        ]
+    },
+    {
+        "name": "Quest - Subversive Ideas",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": [
+            "Progressive Main Story:40"
+        ]
+    },
+    {
+        "name": "Quest - Summit Slaves",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": [
+            "Progressive Main Story:40"
+        ]
+    },
+    {
+        "name": "Quest - Tasca's Reprise",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": [
+            "Progressive Main Story:40"
+        ]
+    },
+    {
+        "name": "Quest - The Final Assault",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": [
+            "Progressive Main Story:40"
+        ]
+    },
+    {
+        "name": "Quest - The Forge Heart",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": [
+            "Progressive Main Story:40"
+        ]
+    },
+    {
+        "name": "Quest - The Hero's Challenge",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": [
+            "Progressive Main Story:40"
+        ]
+    },
+    {
+        "name": "Quest - The Hero's Journey",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": [
+            "Progressive Main Story:40"
+        ]
+    },
+    {
+        "name": "Quest - To Sorrow's Furnace",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": [
+            "Progressive Main Story:40"
+        ]
+    },
+    {
+        "name": "Quest - Unruly Slaves",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": [
+            "Progressive Main Story:40"
+        ]
+    },
+    {
+        "name": "Quest - Unspeakable, Unknowable",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": [
+            "Progressive Main Story:40"
+        ]
+    },
+    {
+        "name": "Quest - Wrenches In The Gears",
+        "category": [
+            "Quest",
+            "Southern Shiverpeaks"
+        ],
+        "requires": [
+            "Progressive Main Story:40"
         ]
     }
 ]
