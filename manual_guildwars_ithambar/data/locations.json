@@ -745,556 +745,293 @@
         ]
     },
     {
-        "name": "Quest - Adventure with an Ally",
+        "name": "Quest - A Mission of Peace",
         "category": [
             "Quest",
-            "Ascalon (pre-Searing)"
+            "Ascalon"
+        ],
+        "requires": [
+            "Progressive Main Story:8"
         ]
     },
     {
-        "name": "Quest - Adventure with an Ally",
+        "name": "Quest - Althea's Ashes",
         "category": [
             "Quest",
-            "Ascalon (pre-Searing)"
+            "Ascalon"
+        ],
+        "requires": [
+            "Progressive Main Story:8"
         ]
     },
     {
-        "name": "Quest - Adventure with an Ally",
+        "name": "Quest - Barradin's Advance",
         "category": [
             "Quest",
-            "Ascalon (pre-Searing)"
+            "Ascalon"
+        ],
+        "requires": [
+            "Progressive Main Story:8"
         ]
     },
     {
-        "name": "Quest - Adventure with an Ally",
+        "name": "Quest - Barradin's Stand",
         "category": [
             "Quest",
-            "Ascalon (pre-Searing)"
+            "Ascalon"
+        ],
+        "requires": [
+            "Progressive Main Story:8"
         ]
     },
     {
-        "name": "Quest - Adventure with an Ally",
+        "name": "Quest - Caravan in Trouble",
         "category": [
             "Quest",
-            "Ascalon (pre-Searing)"
+            "Ascalon"
+        ],
+        "requires": [
+            "Progressive Main Story:8"
         ]
     },
     {
-        "name": "Quest - Adventure with an Ally",
+        "name": "Quest - Casualty Report",
         "category": [
             "Quest",
-            "Ascalon (pre-Searing)"
+            "Ascalon"
+        ],
+        "requires": [
+            "Progressive Main Story:8"
         ]
     },
     {
-        "name": "Quest - Adventure with an Ally",
+        "name": "Quest - Cities of Ascalon",
         "category": [
             "Quest",
-            "Ascalon (pre-Searing)"
+            "Ascalon"
+        ],
+        "requires": [
+            "Progressive Main Story:8"
         ]
     },
     {
-        "name": "Quest - Adventure with an Ally",
+        "name": "Quest - Counting the Fallen",
         "category": [
             "Quest",
-            "Ascalon (pre-Searing)"
+            "Ascalon"
+        ],
+        "requires": [
+            "Progressive Main Story:8"
         ]
     },
     {
-        "name": "Quest - Adventure with an Ally",
+        "name": "Quest - Deliver a Message to My Wife",
         "category": [
             "Quest",
-            "Ascalon (pre-Searing)"
+            "Ascalon"
+        ],
+        "requires": [
+            "Progressive Main Story:8"
         ]
     },
     {
-        "name": "Quest - Adventure with an Ally",
+        "name": "Quest - Family Ties",
         "category": [
             "Quest",
-            "Ascalon (pre-Searing)"
+            "Ascalon"
+        ],
+        "requires": [
+            "Progressive Main Story:8"
         ]
     },
     {
-        "name": "Quest - Adventure with an Ally",
+        "name": "Quest - Fires in the East",
         "category": [
             "Quest",
-            "Ascalon (pre-Searing)"
+            "Ascalon"
+        ],
+        "requires": [
+            "Progressive Main Story:8"
         ]
     },
     {
-        "name": "Quest - Adventure with an Ally",
+        "name": "Quest - Fires in the North",
         "category": [
             "Quest",
-            "Ascalon (pre-Searing)"
+            "Ascalon"
+        ],
+        "requires": [
+            "Progressive Main Story:8"
         ]
     },
     {
-        "name": "Quest - Adventure with an Ally",
+        "name": "Quest - Frontier Gate Fugitives",
         "category": [
             "Quest",
-            "Ascalon (pre-Searing)"
+            "Ascalon"
+        ],
+        "requires": [
+            "Progressive Main Story:8"
         ]
     },
     {
-        "name": "Quest - Adventure with an Ally",
+        "name": "Quest - Garfazz Bloodfang",
         "category": [
             "Quest",
-            "Ascalon (pre-Searing)"
+            "Ascalon"
+        ],
+        "requires": [
+            "Progressive Main Story:8"
         ]
     },
     {
-        "name": "Quest - Adventure with an Ally",
+        "name": "Quest - Hammer and Anvil",
         "category": [
             "Quest",
-            "Ascalon (pre-Searing)"
+            "Ascalon"
+        ],
+        "requires": [
+            "Progressive Main Story:8"
         ]
     },
     {
-        "name": "Quest - Adventure with an Ally",
+        "name": "Quest - Helping The People of Ascalon",
         "category": [
             "Quest",
-            "Ascalon (pre-Searing)"
+            "Ascalon"
+        ],
+        "requires": [
+            "Progressive Main Story:8"
         ]
     },
     {
-        "name": "Quest - Adventure with an Ally",
+        "name": "Quest - Rastin's Ritual",
         "category": [
             "Quest",
-            "Ascalon (pre-Searing)"
+            "Ascalon"
+        ],
+        "requires": [
+            "Progressive Main Story:8"
         ]
     },
     {
-        "name": "Quest - Adventure with an Ally",
+        "name": "Quest - Recruits for Hollis",
         "category": [
             "Quest",
-            "Ascalon (pre-Searing)"
+            "Ascalon"
+        ],
+        "requires": [
+            "Progressive Main Story:8"
         ]
     },
     {
-        "name": "Quest - Adventure with an Ally",
+        "name": "Quest - Regent Valley Defense",
         "category": [
             "Quest",
-            "Ascalon (pre-Searing)"
+            "Ascalon"
+        ],
+        "requires": [
+            "Progressive Main Story:8"
         ]
     },
     {
-        "name": "Quest - Adventure with an Ally",
+        "name": "Quest - Scavengers in Old Ascalon",
         "category": [
             "Quest",
-            "Ascalon (pre-Searing)"
+            "Ascalon"
+        ],
+        "requires": [
+            "Progressive Main Story:8"
         ]
     },
     {
-        "name": "Quest - Adventure with an Ally",
+        "name": "Quest - Supplies for the Duke",
         "category": [
             "Quest",
-            "Ascalon (pre-Searing)"
+            "Ascalon"
+        ],
+        "requires": [
+            "Progressive Main Story:8"
         ]
     },
     {
-        "name": "Quest - Adventure with an Ally",
+        "name": "Quest - Symon's History of Ascalon",
         "category": [
             "Quest",
-            "Ascalon (pre-Searing)"
+            "Ascalon"
+        ],
+        "requires": [
+            "Progressive Main Story:8"
         ]
     },
     {
-        "name": "Quest - Adventure with an Ally",
+        "name": "Quest - The Ambassador's Quandary",
         "category": [
             "Quest",
-            "Ascalon (pre-Searing)"
+            "Ascalon"
+        ],
+        "requires": [
+            "Progressive Main Story:8"
         ]
     },
     {
-        "name": "Quest - Adventure with an Ally",
+        "name": "Quest - The Duke's Daughter",
         "category": [
             "Quest",
-            "Ascalon (pre-Searing)"
+            "Ascalon"
+        ],
+        "requires": [
+            "Progressive Main Story:8"
         ]
     },
     {
-        "name": "Quest - Adventure with an Ally",
+        "name": "Quest - The King's Message",
         "category": [
             "Quest",
-            "Ascalon (pre-Searing)"
+            "Ascalon"
+        ],
+        "requires": [
+            "Progressive Main Story:8"
         ]
     },
     {
-        "name": "Quest - Adventure with an Ally",
+        "name": "Quest - The Red-Cloaked Deserter",
         "category": [
             "Quest",
-            "Ascalon (pre-Searing)"
+            "Ascalon"
+        ],
+        "requires": [
+            "Progressive Main Story:8"
         ]
     },
     {
-        "name": "Quest - Adventure with an Ally",
+        "name": "Quest - The Siege of Piken Square",
         "category": [
             "Quest",
-            "Ascalon (pre-Searing)"
+            "Ascalon"
+        ],
+        "requires": [
+            "Progressive Main Story:8"
         ]
     },
     {
-        "name": "Quest - Adventure with an Ally",
+        "name": "Quest - The Troublesome Artifact",
         "category": [
             "Quest",
-            "Ascalon (pre-Searing)"
+            "Ascalon"
+        ],
+        "requires": [
+            "Progressive Main Story:8"
         ]
     },
     {
-        "name": "Quest - Adventure with an Ally",
+        "name": "Quest - Vanguard Equipment",
         "category": [
             "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
-        ]
-    },
-    {
-        "name": "Quest - Adventure with an Ally",
-        "category": [
-            "Quest",
-            "Ascalon (pre-Searing)"
+            "Ascalon"
+        ],
+        "requires": [
+            "Progressive Main Story:8"
         ]
     }
 ]
