@@ -1303,5 +1303,65 @@
         "requires": [
             "Progressive Main Story:21"
         ]
+    },
+    {
+        "name": "Quest - Blood And Smoke",
+        "category": [
+            "Quest",
+            "Maguuma Jungle"
+        ],
+        "requires": [
+            "Progressive Main Story:25"
+        ]
+    },
+    {
+        "name": "Quest - Dropping Eaves",
+        "category": [
+            "Quest",
+            "Maguuma Jungle"
+        ],
+        "requires": [
+            "Progressive Main Story:25"
+        ]
+    },
+    {
+        "name": "Quest - Eye For Profit",
+        "category": [
+            "Quest",
+            "Maguuma Jungle"
+        ],
+        "requires": [
+            "Progressive Main Story:25"
+        ]
+    },
+    {
+        "name": "Quest - Mysterious Message",
+        "category": [
+            "Quest",
+            "Maguuma Jungle"
+        ],
+        "requires": [
+            "Progressive Main Story:25"
+        ]
+    },
+    {
+        "name": "Quest - The Price of Steel",
+        "category": [
+            "Quest",
+            "Maguuma Jungle"
+        ],
+        "requires": [
+            "Progressive Main Story:25"
+        ]
+    },
+    {
+        "name": "Quest - Wisdom of the Druids",
+        "category": [
+            "Quest",
+            "Maguuma Jungle"
+        ],
+        "requires": [
+            "Progressive Main Story:25"
+        ]
     }
 ]
