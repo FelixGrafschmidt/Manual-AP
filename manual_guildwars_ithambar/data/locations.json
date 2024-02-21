@@ -2019,5 +2019,69 @@
             "Kryta"
         ],
         "requires": "|Progressive Main Story:21|"
+    },
+    {
+        "name": "Reach Henge of Denravi",
+        "category": [
+            "Location",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:25|"
+    },
+    {
+        "name": "Reach Druid's Overlook",
+        "category": [
+            "Location",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:25|"
+    },
+    {
+        "name": "Reach Maguuma Stade",
+        "category": [
+            "Location",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:25|"
+    },
+    {
+        "name": "Reach Quarrel Falls",
+        "category": [
+            "Location",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:25|"
+    },
+    {
+        "name": "Reach Ventari's Refuge",
+        "category": [
+            "Location",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:25|"
+    },
+    {
+        "name": "Reach Aurora Glade",
+        "category": [
+            "Location",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:25|"
+    },
+    {
+        "name": "Reach Bloodstone Fen",
+        "category": [
+            "Location",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:25|"
+    },
+    {
+        "name": "Reach The Wilds",
+        "category": [
+            "Location",
+            "Maguuma Jungle"
+        ],
+        "requires": "|Progressive Main Story:25|"
     }
 ]
