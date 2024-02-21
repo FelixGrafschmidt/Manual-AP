@@ -9,6 +9,12 @@
         "Base Class"
       ],
       "random": 1
+    },
+    {
+      "item_categories": [
+        "Attribute"
+      ],
+      "random": 1
     }
   ]
 }

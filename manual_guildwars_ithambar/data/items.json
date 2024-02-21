@@ -7,7 +7,9 @@
     },
     {
         "name": "Progressive Armor",
-        "category": [],
+        "category": [
+            "Equipment"
+        ],
         "count": "10",
         "progression": true
     },

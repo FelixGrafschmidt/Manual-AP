@@ -806,18 +806,6 @@
         ]
     },
     {
-        "name": "Bonus - Hell's Precipice",
-        "category": [
-            "Story",
-            "Bonus",
-            "Ring of Fire Islands"
-        ],
-        "requires": "|Progressive Main Story:47|",
-        "place_item": [
-            "Victory"
-        ]
-    },
-    {
         "name": "The Lich is defeated",
         "category": [
             "Story",
