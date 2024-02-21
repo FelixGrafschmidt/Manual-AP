@@ -5,7 +5,8 @@
             "Story",
             "Primary Quest",
             "Ring of Fire Islands"
-        ]
+        ],
+        "requires": []
     },
     {
         "name": "Primary Quest - War Preparations",
@@ -14,9 +15,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:1"
-        ]
+        "requires": "|Progressive Main Story:1|"
     },
     {
         "name": "Primary Quest - Class Test",
@@ -25,9 +24,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:2"
-        ]
+        "requires": "|Progressive Main Story:2|"
     },
     {
         "name": "Primary Quest - Further Adventures",
@@ -36,9 +33,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:3"
-        ]
+        "requires": "|Progressive Main Story:3|"
     },
     {
         "name": "Primary Quest - Unsettling Rumors",
@@ -47,9 +42,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:4"
-        ]
+        "requires": "|Progressive Main Story:4|"
     },
     {
         "name": "Primary Quest - A Second Profession",
@@ -58,10 +51,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:5",
-            "(|Class - Mesmer| or |Class - Warrior| or |Class - Monk| or |Class - Ranger| or |Class - Elementalist| or |Class - Necromancer|):2"
-        ]
+        "requires": "|Progressive Main Story:5| AND ( |Class - Mesmer| OR |Class - Warrior| OR |Class - Monk| OR |Class - Ranger| OR |Class - Elementalist| OR |Class - Necromancer| ):2"
     },
     {
         "name": "Primary Quest - The Path to Glory",
@@ -70,9 +60,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:6"
-        ]
+        "requires": "|Progressive Main Story:6|"
     },
     {
         "name": "Primary Quest - Ascalon Academy",
@@ -81,9 +69,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:7"
-        ]
+        "requires": "|Progressive Main Story:7|"
     },
     {
         "name": "Primary Quest - The Krytan Ambassador",
@@ -92,9 +78,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:8"
-        ]
+        "requires": "|Progressive Main Story:8|"
     },
     {
         "name": "Primary Quest - Defend the Wall",
@@ -103,9 +87,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:9"
-        ]
+        "requires": "|Progressive Main Story:9|"
     },
     {
         "name": "Mission - The Great Northern Wall",
@@ -114,9 +96,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:10"
-        ]
+        "requires": "|Progressive Main Story:10|"
     },
     {
         "name": "Mission - Fort Ranik",
@@ -125,9 +105,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:11"
-        ]
+        "requires": "|Progressive Main Story:11|"
     },
     {
         "name": "Primary Quest - Ruins of Surmia",
@@ -136,9 +114,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:12"
-        ]
+        "requires": "|Progressive Main Story:12|"
     },
     {
         "name": "Mission - Ruins of Surmia",
@@ -147,9 +123,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:13"
-        ]
+        "requires": "|Progressive Main Story:13|"
     },
     {
         "name": "Mission - Nolani Academy",
@@ -158,9 +132,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:14"
-        ]
+        "requires": "|Progressive Main Story:14|"
     },
     {
         "name": "Primary Quest - The Way is Blocked",
@@ -169,9 +141,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:15"
-        ]
+        "requires": "|Progressive Main Story:15|"
     },
     {
         "name": "Mission - Borlis Pass",
@@ -180,9 +150,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:16"
-        ]
+        "requires": "|Progressive Main Story:16|"
     },
     {
         "name": "Mission - The Frost Gate",
@@ -191,9 +159,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:17"
-        ]
+        "requires": "|Progressive Main Story:17|"
     },
     {
         "name": "Primary Quest - To Kryta: Refugees",
@@ -202,9 +168,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:18"
-        ]
+        "requires": "|Progressive Main Story:18|"
     },
     {
         "name": "Primary Quest - To Kryta: The Ice Cave",
@@ -213,9 +177,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:19"
-        ]
+        "requires": "|Progressive Main Story:19|"
     },
     {
         "name": "Primary Quest - To Kryta: Journey's End",
@@ -224,9 +186,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:20"
-        ]
+        "requires": "|Progressive Main Story:20|"
     },
     {
         "name": "Mission - Gates of Kryta",
@@ -235,9 +195,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:21"
-        ]
+        "requires": "|Progressive Main Story:21|"
     },
     {
         "name": "Primary Quest - Report to the White Mantle",
@@ -246,9 +204,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:22"
-        ]
+        "requires": "|Progressive Main Story:22|"
     },
     {
         "name": "Mission - D'Alessio Seaboard",
@@ -257,9 +213,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:23"
-        ]
+        "requires": "|Progressive Main Story:23|"
     },
     {
         "name": "Mission - Divinity Coast",
@@ -268,9 +222,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:24"
-        ]
+        "requires": "|Progressive Main Story:24|"
     },
     {
         "name": "Primary Quest - A Brother's Fury",
@@ -279,9 +231,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:25"
-        ]
+        "requires": "|Progressive Main Story:25|"
     },
     {
         "name": "Mission - The Wilds",
@@ -290,9 +240,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:26"
-        ]
+        "requires": "|Progressive Main Story:26|"
     },
     {
         "name": "Mission - Bloodstone Fen",
@@ -301,9 +249,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:27"
-        ]
+        "requires": "|Progressive Main Story:27|"
     },
     {
         "name": "Primary Quest - White Mantle Wrath: Demagogue's Vanguard",
@@ -312,9 +258,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:28"
-        ]
+        "requires": "|Progressive Main Story:28|"
     },
     {
         "name": "Primary Quest - White Mantle Wrath: A Helping Hand OR Urgent Warning",
@@ -323,9 +267,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:29"
-        ]
+        "requires": "|Progressive Main Story:29|"
     },
     {
         "name": "Mission - Aurora Glade",
@@ -334,9 +276,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:30"
-        ]
+        "requires": "|Progressive Main Story:30|"
     },
     {
         "name": "Primary Quest - Passage Through The Dark River",
@@ -345,9 +285,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:31"
-        ]
+        "requires": "|Progressive Main Story:31|"
     },
     {
         "name": "Mission - Riverside Province",
@@ -356,9 +294,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:32"
-        ]
+        "requires": "|Progressive Main Story:32|"
     },
     {
         "name": "Mission - Sanctum Cay",
@@ -367,9 +303,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:33"
-        ]
+        "requires": "|Progressive Main Story:33|"
     },
     {
         "name": "Primary Quest - Sands of Souls",
@@ -378,9 +312,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:34"
-        ]
+        "requires": "|Progressive Main Story:34|"
     },
     {
         "name": "Mission - Dunes of Despair",
@@ -389,9 +321,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:35"
-        ]
+        "requires": "|Progressive Main Story:35|"
     },
     {
         "name": "Mission - Thirsty River",
@@ -400,9 +330,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:36"
-        ]
+        "requires": "|Progressive Main Story:36|"
     },
     {
         "name": "Mission - Elona Reach",
@@ -411,9 +339,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:37"
-        ]
+        "requires": "|Progressive Main Story:37|"
     },
     {
         "name": "Mission - Augury Rock",
@@ -422,9 +348,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:38"
-        ]
+        "requires": "|Progressive Main Story:38|"
     },
     {
         "name": "Mission - The Dragon's Lair",
@@ -433,9 +357,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:39"
-        ]
+        "requires": "|Progressive Main Story:39|"
     },
     {
         "name": "Primary Quest - Seeking the Seer",
@@ -444,9 +366,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:40"
-        ]
+        "requires": "|Progressive Main Story:40|"
     },
     {
         "name": "Mission - Ice Caves of Sorrow",
@@ -455,9 +375,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:41"
-        ]
+        "requires": "|Progressive Main Story:41|"
     },
     {
         "name": "Mission - Iron Mines of Moladune",
@@ -466,9 +384,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:42"
-        ]
+        "requires": "|Progressive Main Story:42|"
     },
     {
         "name": "Mission - Thunderhead Keep",
@@ -477,9 +393,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:43"
-        ]
+        "requires": "|Progressive Main Story:43|"
     },
     {
         "name": "Primary Quest - Final Blow",
@@ -488,9 +402,7 @@
             "Primary Quest",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:44"
-        ]
+        "requires": "|Progressive Main Story:44|"
     },
     {
         "name": "Mission - Ring of Fire",
@@ -499,9 +411,7 @@
             "Mission",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:45"
-        ]
+        "requires": "|Progressive Main Story:45|"
     },
     {
         "name": "Mission - Abaddon's Mouth",
@@ -510,9 +420,7 @@
             "Mission",
             "Ring of Fire Islands"
         ],
-        "requires": [
-            "Progressive Main Story:46"
-        ]
+        "requires": "|Progressive Main Story:46|"
     },
     {
         "name": "Mission - Hell's Precipice",
@@ -522,9 +430,7 @@
             "Ring of Fire Islands",
             "Victory"
         ],
-        "requires": [
-            "Progressive Main Story:47"
-        ],
+        "requires": "|Progressive Main Story:47|",
         "victory": "true"
     },
     {
@@ -532,217 +438,248 @@
         "category": [
             "Quest",
             "Ascalon (pre-Searing)"
-        ]
+        ],
+        "requires": []
     },
     {
         "name": "Quest - Across the Wall",
         "category": [
             "Quest",
             "Ascalon (pre-Searing)"
-        ]
+        ],
+        "requires": []
     },
     {
         "name": "Quest - Adventure with an Ally",
         "category": [
             "Quest",
             "Ascalon (pre-Searing)"
-        ]
+        ],
+        "requires": []
     },
     {
         "name": "Quest - Bandit Raid",
         "category": [
             "Quest",
             "Ascalon (pre-Searing)"
-        ]
+        ],
+        "requires": []
     },
     {
         "name": "Quest - Charr at the Gate",
         "category": [
             "Quest",
             "Ascalon (pre-Searing)"
-        ]
+        ],
+        "requires": []
     },
     {
         "name": "Quest - Charr in the Catacombs",
         "category": [
             "Quest",
             "Ascalon (pre-Searing)"
-        ]
+        ],
+        "requires": []
     },
     {
         "name": "Quest - Gwen's Flute",
         "category": [
             "Quest",
             "Ascalon (pre-Searing)"
-        ]
+        ],
+        "requires": []
     },
     {
         "name": "Quest - Little Thom's Big Cloak",
         "category": [
             "Quest",
             "Ascalon (pre-Searing)"
-        ]
+        ],
+        "requires": []
     },
     {
         "name": "Quest - Opposition to the King",
         "category": [
             "Quest",
             "Ascalon (pre-Searing)"
-        ]
+        ],
+        "requires": []
     },
     {
         "name": "Quest - Poor Tenant",
         "category": [
             "Quest",
             "Ascalon (pre-Searing)"
-        ]
+        ],
+        "requires": []
     },
     {
         "name": "Quest - Rites of Remembrance",
         "category": [
             "Quest",
             "Ascalon (pre-Searing)"
-        ]
+        ],
+        "requires": []
     },
     {
         "name": "Quest - The Egg Hunter",
         "category": [
             "Quest",
             "Ascalon (pre-Searing)"
-        ]
+        ],
+        "requires": []
     },
     {
         "name": "Quest - The Hunter's Horn",
         "category": [
             "Quest",
             "Ascalon (pre-Searing)"
-        ]
+        ],
+        "requires": []
     },
     {
         "name": "Quest - The Orchard",
         "category": [
             "Quest",
             "Ascalon (pre-Searing)"
-        ]
+        ],
+        "requires": []
     },
     {
         "name": "Quest - The Poison Devourer",
         "category": [
             "Quest",
             "Ascalon (pre-Searing)"
-        ]
+        ],
+        "requires": []
     },
     {
         "name": "Quest - The Prize Moa Bird",
         "category": [
             "Quest",
             "Ascalon (pre-Searing)"
-        ]
+        ],
+        "requires": []
     },
     {
         "name": "Quest - The Rogue's Replacement",
         "category": [
             "Quest",
             "Ascalon (pre-Searing)"
-        ]
+        ],
+        "requires": []
     },
     {
         "name": "Quest - The True King",
         "category": [
             "Quest",
             "Ascalon (pre-Searing)"
-        ]
+        ],
+        "requires": []
     },
     {
         "name": "Quest - The Wayward Wizard",
         "category": [
             "Quest",
             "Ascalon (pre-Searing)"
-        ]
+        ],
+        "requires": []
     },
     {
         "name": "Quest - The Worm Problem",
         "category": [
             "Quest",
             "Ascalon (pre-Searing)"
-        ]
+        ],
+        "requires": []
     },
     {
         "name": "Quest - Tithe for Ashford Abbey",
         "category": [
             "Quest",
             "Ascalon (pre-Searing)"
-        ]
+        ],
+        "requires": []
     },
     {
         "name": "Quest - Trouble in the Woods",
         "category": [
             "Quest",
             "Ascalon (pre-Searing)"
-        ]
+        ],
+        "requires": []
     },
     {
         "name": "Quest - Vanguard Annihilation: Bandits",
         "category": [
             "Quest",
             "Ascalon (pre-Searing)"
-        ]
+        ],
+        "requires": []
     },
     {
         "name": "Quest - Vanguard Annihilation: Charr",
         "category": [
             "Quest",
             "Ascalon (pre-Searing)"
-        ]
+        ],
+        "requires": []
     },
     {
         "name": "Quest - Vanguard Annihilation: Undead",
         "category": [
             "Quest",
             "Ascalon (pre-Searing)"
-        ]
+        ],
+        "requires": []
     },
     {
         "name": "Quest - Vanguard Bounty: Blazefiend Griefblade",
         "category": [
             "Quest",
             "Ascalon (pre-Searing)"
-        ]
+        ],
+        "requires": []
     },
     {
         "name": "Quest - Vanguard Bounty: Countess Nadya",
         "category": [
             "Quest",
             "Ascalon (pre-Searing)"
-        ]
+        ],
+        "requires": []
     },
     {
         "name": "Quest - Vanguard Bounty: Utini Wupwup",
         "category": [
             "Quest",
             "Ascalon (pre-Searing)"
-        ]
+        ],
+        "requires": []
     },
     {
         "name": "Quest - Vanguard Rescue: Farmer Hamnet",
         "category": [
             "Quest",
             "Ascalon (pre-Searing)"
-        ]
+        ],
+        "requires": []
     },
     {
         "name": "Quest - Vanguard Rescue: Footman Tate",
         "category": [
             "Quest",
             "Ascalon (pre-Searing)"
-        ]
+        ],
+        "requires": []
     },
     {
         "name": "Quest - Vanguard Rescue: Save the Ascalonian Noble",
         "category": [
             "Quest",
             "Ascalon (pre-Searing)"
-        ]
+        ],
+        "requires": []
     },
     {
         "name": "Quest - A Mission of Peace",
@@ -750,9 +687,7 @@
             "Quest",
             "Ascalon"
         ],
-        "requires": [
-            "Progressive Main Story:8"
-        ]
+        "requires": "|Progressive Main Story:8|"
     },
     {
         "name": "Quest - Althea's Ashes",
@@ -760,9 +695,7 @@
             "Quest",
             "Ascalon"
         ],
-        "requires": [
-            "Progressive Main Story:8"
-        ]
+        "requires": "|Progressive Main Story:8|"
     },
     {
         "name": "Quest - Barradin's Advance",
@@ -770,9 +703,7 @@
             "Quest",
             "Ascalon"
         ],
-        "requires": [
-            "Progressive Main Story:8"
-        ]
+        "requires": "|Progressive Main Story:8|"
     },
     {
         "name": "Quest - Barradin's Stand",
@@ -780,9 +711,7 @@
             "Quest",
             "Ascalon"
         ],
-        "requires": [
-            "Progressive Main Story:8"
-        ]
+        "requires": "|Progressive Main Story:8|"
     },
     {
         "name": "Quest - Caravan in Trouble",
@@ -790,9 +719,7 @@
             "Quest",
             "Ascalon"
         ],
-        "requires": [
-            "Progressive Main Story:8"
-        ]
+        "requires": "|Progressive Main Story:8|"
     },
     {
         "name": "Quest - Casualty Report",
@@ -800,9 +727,7 @@
             "Quest",
             "Ascalon"
         ],
-        "requires": [
-            "Progressive Main Story:8"
-        ]
+        "requires": "|Progressive Main Story:8|"
     },
     {
         "name": "Quest - Cities of Ascalon",
@@ -810,9 +735,7 @@
             "Quest",
             "Ascalon"
         ],
-        "requires": [
-            "Progressive Main Story:8"
-        ]
+        "requires": "|Progressive Main Story:8|"
     },
     {
         "name": "Quest - Counting the Fallen",
@@ -820,9 +743,7 @@
             "Quest",
             "Ascalon"
         ],
-        "requires": [
-            "Progressive Main Story:8"
-        ]
+        "requires": "|Progressive Main Story:8|"
     },
     {
         "name": "Quest - Deliver a Message to My Wife",
@@ -830,9 +751,7 @@
             "Quest",
             "Ascalon"
         ],
-        "requires": [
-            "Progressive Main Story:8"
-        ]
+        "requires": "|Progressive Main Story:8|"
     },
     {
         "name": "Quest - Family Ties",
@@ -840,9 +759,7 @@
             "Quest",
             "Ascalon"
         ],
-        "requires": [
-            "Progressive Main Story:8"
-        ]
+        "requires": "|Progressive Main Story:8|"
     },
     {
         "name": "Quest - Fires in the East",
@@ -850,9 +767,7 @@
             "Quest",
             "Ascalon"
         ],
-        "requires": [
-            "Progressive Main Story:8"
-        ]
+        "requires": "|Progressive Main Story:8|"
     },
     {
         "name": "Quest - Fires in the North",
@@ -860,9 +775,7 @@
             "Quest",
             "Ascalon"
         ],
-        "requires": [
-            "Progressive Main Story:8"
-        ]
+        "requires": "|Progressive Main Story:8|"
     },
     {
         "name": "Quest - Frontier Gate Fugitives",
@@ -870,9 +783,7 @@
             "Quest",
             "Ascalon"
         ],
-        "requires": [
-            "Progressive Main Story:8"
-        ]
+        "requires": "|Progressive Main Story:8|"
     },
     {
         "name": "Quest - Garfazz Bloodfang",
@@ -880,9 +791,7 @@
             "Quest",
             "Ascalon"
         ],
-        "requires": [
-            "Progressive Main Story:8"
-        ]
+        "requires": "|Progressive Main Story:8|"
     },
     {
         "name": "Quest - Hammer and Anvil",
@@ -890,9 +799,7 @@
             "Quest",
             "Ascalon"
         ],
-        "requires": [
-            "Progressive Main Story:8"
-        ]
+        "requires": "|Progressive Main Story:8|"
     },
     {
         "name": "Quest - Helping The People of Ascalon",
@@ -900,9 +807,7 @@
             "Quest",
             "Ascalon"
         ],
-        "requires": [
-            "Progressive Main Story:8"
-        ]
+        "requires": "|Progressive Main Story:8|"
     },
     {
         "name": "Quest - Rastin's Ritual",
@@ -910,9 +815,7 @@
             "Quest",
             "Ascalon"
         ],
-        "requires": [
-            "Progressive Main Story:8"
-        ]
+        "requires": "|Progressive Main Story:8|"
     },
     {
         "name": "Quest - Recruits for Hollis",
@@ -920,9 +823,7 @@
             "Quest",
             "Ascalon"
         ],
-        "requires": [
-            "Progressive Main Story:8"
-        ]
+        "requires": "|Progressive Main Story:8|"
     },
     {
         "name": "Quest - Regent Valley Defense",
@@ -930,9 +831,7 @@
             "Quest",
             "Ascalon"
         ],
-        "requires": [
-            "Progressive Main Story:8"
-        ]
+        "requires": "|Progressive Main Story:8|"
     },
     {
         "name": "Quest - Scavengers in Old Ascalon",
@@ -940,9 +839,7 @@
             "Quest",
             "Ascalon"
         ],
-        "requires": [
-            "Progressive Main Story:8"
-        ]
+        "requires": "|Progressive Main Story:8|"
     },
     {
         "name": "Quest - Supplies for the Duke",
@@ -950,9 +847,7 @@
             "Quest",
             "Ascalon"
         ],
-        "requires": [
-            "Progressive Main Story:8"
-        ]
+        "requires": "|Progressive Main Story:8|"
     },
     {
         "name": "Quest - Symon's History of Ascalon",
@@ -960,9 +855,7 @@
             "Quest",
             "Ascalon"
         ],
-        "requires": [
-            "Progressive Main Story:8"
-        ]
+        "requires": "|Progressive Main Story:8|"
     },
     {
         "name": "Quest - The Ambassador's Quandary",
@@ -970,9 +863,7 @@
             "Quest",
             "Ascalon"
         ],
-        "requires": [
-            "Progressive Main Story:8"
-        ]
+        "requires": "|Progressive Main Story:8|"
     },
     {
         "name": "Quest - The Duke's Daughter",
@@ -980,9 +871,7 @@
             "Quest",
             "Ascalon"
         ],
-        "requires": [
-            "Progressive Main Story:8"
-        ]
+        "requires": "|Progressive Main Story:8|"
     },
     {
         "name": "Quest - The King's Message",
@@ -990,9 +879,7 @@
             "Quest",
             "Ascalon"
         ],
-        "requires": [
-            "Progressive Main Story:8"
-        ]
+        "requires": "|Progressive Main Story:8|"
     },
     {
         "name": "Quest - The Red-Cloaked Deserter",
@@ -1000,9 +887,7 @@
             "Quest",
             "Ascalon"
         ],
-        "requires": [
-            "Progressive Main Story:8"
-        ]
+        "requires": "|Progressive Main Story:8|"
     },
     {
         "name": "Quest - The Siege of Piken Square",
@@ -1010,9 +895,7 @@
             "Quest",
             "Ascalon"
         ],
-        "requires": [
-            "Progressive Main Story:8"
-        ]
+        "requires": "|Progressive Main Story:8|"
     },
     {
         "name": "Quest - The Troublesome Artifact",
@@ -1020,9 +903,7 @@
             "Quest",
             "Ascalon"
         ],
-        "requires": [
-            "Progressive Main Story:8"
-        ]
+        "requires": "|Progressive Main Story:8|"
     },
     {
         "name": "Quest - Vanguard Equipment",
@@ -1030,9 +911,7 @@
             "Quest",
             "Ascalon"
         ],
-        "requires": [
-            "Progressive Main Story:8"
-        ]
+        "requires": "|Progressive Main Story:8|"
     },
     {
         "name": "Quest - Helping the Dwarves",
@@ -1040,9 +919,7 @@
             "Quest",
             "Northern Shiverpeaks"
         ],
-        "requires": [
-            "Progressive Main Story:15"
-        ]
+        "requires": "|Progressive Main Story:15|"
     },
     {
         "name": "Quest - Hungry Devourer",
@@ -1050,9 +927,7 @@
             "Quest",
             "Northern Shiverpeaks"
         ],
-        "requires": [
-            "Progressive Main Story:15"
-        ]
+        "requires": "|Progressive Main Story:15|"
     },
     {
         "name": "Quest - Iron Horse War Machine",
@@ -1060,9 +935,7 @@
             "Quest",
             "Northern Shiverpeaks"
         ],
-        "requires": [
-            "Progressive Main Story:15"
-        ]
+        "requires": "|Progressive Main Story:15|"
     },
     {
         "name": "Quest - Minaar's Trouble",
@@ -1070,9 +943,7 @@
             "Quest",
             "Northern Shiverpeaks"
         ],
-        "requires": [
-            "Progressive Main Story:15"
-        ]
+        "requires": "|Progressive Main Story:15|"
     },
     {
         "name": "Quest - Minaar's Worry",
@@ -1080,9 +951,7 @@
             "Quest",
             "Northern Shiverpeaks"
         ],
-        "requires": [
-            "Progressive Main Story:15"
-        ]
+        "requires": "|Progressive Main Story:15|"
     },
     {
         "name": "Quest - Oswalt's Epitaph",
@@ -1090,9 +959,7 @@
             "Quest",
             "Northern Shiverpeaks"
         ],
-        "requires": [
-            "Progressive Main Story:15"
-        ]
+        "requires": "|Progressive Main Story:15|"
     },
     {
         "name": "Quest - Shiverpeak Stragglers",
@@ -1100,9 +967,7 @@
             "Quest",
             "Northern Shiverpeaks"
         ],
-        "requires": [
-            "Progressive Main Story:15"
-        ]
+        "requires": "|Progressive Main Story:15|"
     },
     {
         "name": "Quest - The Deserters",
@@ -1110,9 +975,7 @@
             "Quest",
             "Northern Shiverpeaks"
         ],
-        "requires": [
-            "Progressive Main Story:15"
-        ]
+        "requires": "|Progressive Main Story:15|"
     },
     {
         "name": "Quest - The Missing Artisan",
@@ -1120,9 +983,7 @@
             "Quest",
             "Northern Shiverpeaks"
         ],
-        "requires": [
-            "Progressive Main Story:15"
-        ]
+        "requires": "|Progressive Main Story:15|"
     },
     {
         "name": "Quest - The Road to Borlis Pass",
@@ -1130,9 +991,7 @@
             "Quest",
             "Northern Shiverpeaks"
         ],
-        "requires": [
-            "Progressive Main Story:15"
-        ]
+        "requires": "|Progressive Main Story:15|"
     },
     {
         "name": "Quest - Bandit Trouble",
@@ -1140,9 +999,7 @@
             "Quest",
             "Kryta"
         ],
-        "requires": [
-            "Progressive Main Story:21"
-        ]
+        "requires": "|Progressive Main Story:21|"
     },
     {
         "name": "Quest - Blankets for the Settlers",
@@ -1150,9 +1007,7 @@
             "Quest",
             "Kryta"
         ],
-        "requires": [
-            "Progressive Main Story:21"
-        ]
+        "requires": "|Progressive Main Story:21|"
     },
     {
         "name": "Quest - Duties of a Lionguard",
@@ -1160,9 +1015,7 @@
             "Quest",
             "Kryta"
         ],
-        "requires": [
-            "Progressive Main Story:21"
-        ]
+        "requires": "|Progressive Main Story:21|"
     },
     {
         "name": "Quest - Graven Images",
@@ -1170,9 +1023,7 @@
             "Quest",
             "Kryta"
         ],
-        "requires": [
-            "Progressive Main Story:21"
-        ]
+        "requires": "|Progressive Main Story:21|"
     },
     {
         "name": "Quest - Malaquire's Test",
@@ -1180,9 +1031,7 @@
             "Quest",
             "Kryta"
         ],
-        "requires": [
-            "Progressive Main Story:21"
-        ]
+        "requires": "|Progressive Main Story:21|"
     },
     {
         "name": "Quest - Merchant's Plea",
@@ -1190,9 +1039,7 @@
             "Quest",
             "Kryta"
         ],
-        "requires": [
-            "Progressive Main Story:21"
-        ]
+        "requires": "|Progressive Main Story:21|"
     },
     {
         "name": "Quest - Orrian Excavation",
@@ -1200,9 +1047,7 @@
             "Quest",
             "Kryta"
         ],
-        "requires": [
-            "Progressive Main Story:21"
-        ]
+        "requires": "|Progressive Main Story:21|"
     },
     {
         "name": "Quest - Reversing the Skales",
@@ -1210,9 +1055,7 @@
             "Quest",
             "Kryta"
         ],
-        "requires": [
-            "Progressive Main Story:21"
-        ]
+        "requires": "|Progressive Main Story:21|"
     },
     {
         "name": "Quest - The Ascalon Settlement",
@@ -1220,9 +1063,7 @@
             "Quest",
             "Kryta"
         ],
-        "requires": [
-            "Progressive Main Story:21"
-        ]
+        "requires": "|Progressive Main Story:21|"
     },
     {
         "name": "Quest - The False Gods",
@@ -1230,9 +1071,7 @@
             "Quest",
             "Kryta"
         ],
-        "requires": [
-            "Progressive Main Story:21"
-        ]
+        "requires": "|Progressive Main Story:21|"
     },
     {
         "name": "Quest - The Hot Springs Murders",
@@ -1240,9 +1079,7 @@
             "Quest",
             "Kryta"
         ],
-        "requires": [
-            "Progressive Main Story:21"
-        ]
+        "requires": "|Progressive Main Story:21|"
     },
     {
         "name": "Quest - The Last Hog",
@@ -1250,9 +1087,7 @@
             "Quest",
             "Kryta"
         ],
-        "requires": [
-            "Progressive Main Story:21"
-        ]
+        "requires": "|Progressive Main Story:21|"
     },
     {
         "name": "Quest - The Lost Princess",
@@ -1260,9 +1095,7 @@
             "Quest",
             "Kryta"
         ],
-        "requires": [
-            "Progressive Main Story:21"
-        ]
+        "requires": "|Progressive Main Story:21|"
     },
     {
         "name": "Quest - The Royal Papers",
@@ -1270,9 +1103,7 @@
             "Quest",
             "Kryta"
         ],
-        "requires": [
-            "Progressive Main Story:21"
-        ]
+        "requires": "|Progressive Main Story:21|"
     },
     {
         "name": "Quest - The Undead Hordes",
@@ -1280,9 +1111,7 @@
             "Quest",
             "Kryta"
         ],
-        "requires": [
-            "Progressive Main Story:21"
-        ]
+        "requires": "|Progressive Main Story:21|"
     },
     {
         "name": "Quest - The Villainy of Galrath",
@@ -1290,9 +1119,7 @@
             "Quest",
             "Kryta"
         ],
-        "requires": [
-            "Progressive Main Story:21"
-        ]
+        "requires": "|Progressive Main Story:21|"
     },
     {
         "name": "Quest - The Weaver of Nebo",
@@ -1300,9 +1127,7 @@
             "Quest",
             "Kryta"
         ],
-        "requires": [
-            "Progressive Main Story:21"
-        ]
+        "requires": "|Progressive Main Story:21|"
     },
     {
         "name": "Quest - Blood And Smoke",
@@ -1310,9 +1135,7 @@
             "Quest",
             "Maguuma Jungle"
         ],
-        "requires": [
-            "Progressive Main Story:25"
-        ]
+        "requires": "|Progressive Main Story:25|"
     },
     {
         "name": "Quest - Dropping Eaves",
@@ -1320,9 +1143,7 @@
             "Quest",
             "Maguuma Jungle"
         ],
-        "requires": [
-            "Progressive Main Story:25"
-        ]
+        "requires": "|Progressive Main Story:25|"
     },
     {
         "name": "Quest - Eye For Profit",
@@ -1330,9 +1151,7 @@
             "Quest",
             "Maguuma Jungle"
         ],
-        "requires": [
-            "Progressive Main Story:25"
-        ]
+        "requires": "|Progressive Main Story:25|"
     },
     {
         "name": "Quest - Mysterious Message",
@@ -1340,9 +1159,7 @@
             "Quest",
             "Maguuma Jungle"
         ],
-        "requires": [
-            "Progressive Main Story:25"
-        ]
+        "requires": "|Progressive Main Story:25|"
     },
     {
         "name": "Quest - The Price of Steel",
@@ -1350,9 +1167,7 @@
             "Quest",
             "Maguuma Jungle"
         ],
-        "requires": [
-            "Progressive Main Story:25"
-        ]
+        "requires": "|Progressive Main Story:25|"
     },
     {
         "name": "Quest - Wisdom of the Druids",
@@ -1360,9 +1175,7 @@
             "Quest",
             "Maguuma Jungle"
         ],
-        "requires": [
-            "Progressive Main Story:25"
-        ]
+        "requires": "|Progressive Main Story:25|"
     },
     {
         "name": "Quest - A Belated Betrothal",
@@ -1370,9 +1183,7 @@
             "Quest",
             "Crystal Desert"
         ],
-        "requires": [
-            "Progressive Main Story:34"
-        ]
+        "requires": "|Progressive Main Story:34|"
     },
     {
         "name": "Quest - Ancient Secrets",
@@ -1380,9 +1191,7 @@
             "Quest",
             "Crystal Desert"
         ],
-        "requires": [
-            "Progressive Main Story:34"
-        ]
+        "requires": "|Progressive Main Story:34|"
     },
     {
         "name": "Quest - Forgotten Wisdom",
@@ -1390,9 +1199,7 @@
             "Quest",
             "Crystal Desert"
         ],
-        "requires": [
-            "Progressive Main Story:34"
-        ]
+        "requires": "|Progressive Main Story:34|"
     },
     {
         "name": "Quest - Ghostly Vengeance",
@@ -1400,9 +1207,7 @@
             "Quest",
             "Crystal Desert"
         ],
-        "requires": [
-            "Progressive Main Story:34"
-        ]
+        "requires": "|Progressive Main Story:34|"
     },
     {
         "name": "Quest - Into the Unknown",
@@ -1410,9 +1215,7 @@
             "Quest",
             "Crystal Desert"
         ],
-        "requires": [
-            "Progressive Main Story:34"
-        ]
+        "requires": "|Progressive Main Story:34|"
     },
     {
         "name": "Quest - The Forgotten Ones",
@@ -1420,9 +1223,7 @@
             "Quest",
             "Crystal Desert"
         ],
-        "requires": [
-            "Progressive Main Story:34"
-        ]
+        "requires": "|Progressive Main Story:34|"
     },
     {
         "name": "Quest - Cold One",
@@ -1430,9 +1231,7 @@
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": [
-            "Progressive Main Story:40"
-        ]
+        "requires": "|Progressive Main Story:40|"
     },
     {
         "name": "Quest - Fire in the Hole",
@@ -1440,9 +1239,7 @@
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": [
-            "Progressive Main Story:40"
-        ]
+        "requires": "|Progressive Main Story:40|"
     },
     {
         "name": "Quest - Gathering Resources",
@@ -1450,9 +1247,7 @@
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": [
-            "Progressive Main Story:40"
-        ]
+        "requires": "|Progressive Main Story:40|"
     },
     {
         "name": "Quest - Kilroy Stonekin",
@@ -1460,9 +1255,7 @@
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": [
-            "Progressive Main Story:40"
-        ]
+        "requires": "|Progressive Main Story:40|"
     },
     {
         "name": "Quest - Noble Intentions",
@@ -1470,9 +1263,7 @@
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": [
-            "Progressive Main Story:40"
-        ]
+        "requires": "|Progressive Main Story:40|"
     },
     {
         "name": "Quest - Noble Intentions Plan B",
@@ -1480,9 +1271,7 @@
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": [
-            "Progressive Main Story:40"
-        ]
+        "requires": "|Progressive Main Story:40|"
     },
     {
         "name": "Quest - Political Ramifications",
@@ -1490,9 +1279,7 @@
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": [
-            "Progressive Main Story:40"
-        ]
+        "requires": "|Progressive Main Story:40|"
     },
     {
         "name": "Quest - Subversive Ideas",
@@ -1500,9 +1287,7 @@
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": [
-            "Progressive Main Story:40"
-        ]
+        "requires": "|Progressive Main Story:40|"
     },
     {
         "name": "Quest - Summit Slaves",
@@ -1510,9 +1295,7 @@
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": [
-            "Progressive Main Story:40"
-        ]
+        "requires": "|Progressive Main Story:40|"
     },
     {
         "name": "Quest - Tasca's Reprise",
@@ -1520,9 +1303,7 @@
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": [
-            "Progressive Main Story:40"
-        ]
+        "requires": "|Progressive Main Story:40|"
     },
     {
         "name": "Quest - The Final Assault",
@@ -1530,9 +1311,7 @@
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": [
-            "Progressive Main Story:40"
-        ]
+        "requires": "|Progressive Main Story:40|"
     },
     {
         "name": "Quest - The Forge Heart",
@@ -1540,9 +1319,7 @@
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": [
-            "Progressive Main Story:40"
-        ]
+        "requires": "|Progressive Main Story:40|"
     },
     {
         "name": "Quest - The Hero's Challenge",
@@ -1550,9 +1327,7 @@
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": [
-            "Progressive Main Story:40"
-        ]
+        "requires": "|Progressive Main Story:40|"
     },
     {
         "name": "Quest - The Hero's Journey",
@@ -1560,9 +1335,7 @@
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": [
-            "Progressive Main Story:40"
-        ]
+        "requires": "|Progressive Main Story:40|"
     },
     {
         "name": "Quest - To Sorrow's Furnace",
@@ -1570,9 +1343,7 @@
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": [
-            "Progressive Main Story:40"
-        ]
+        "requires": "|Progressive Main Story:40|"
     },
     {
         "name": "Quest - Unruly Slaves",
@@ -1580,9 +1351,7 @@
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": [
-            "Progressive Main Story:40"
-        ]
+        "requires": "|Progressive Main Story:40|"
     },
     {
         "name": "Quest - Unspeakable, Unknowable",
@@ -1590,9 +1359,7 @@
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": [
-            "Progressive Main Story:40"
-        ]
+        "requires": "|Progressive Main Story:40|"
     },
     {
         "name": "Quest - Wrenches In The Gears",
@@ -1600,8 +1367,6 @@
             "Quest",
             "Southern Shiverpeaks"
         ],
-        "requires": [
-            "Progressive Main Story:40"
-        ]
+        "requires": "|Progressive Main Story:40|"
     }
 ]

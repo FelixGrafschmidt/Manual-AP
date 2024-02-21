@@ -2,13 +2,13 @@
     {
         "name": "Progressive Main Story",
         "category": [],
-        "count": 47,
+        "count": "100",
         "progression": true
     },
     {
         "name": "Progressive Armor",
         "category": [],
-        "count": 5,
+        "count": "10",
         "progression": true
     },
     {
@@ -16,6 +16,7 @@
         "category": [
             "Base Class"
         ],
+        "count": "3",
         "progression": true
     },
     {
@@ -23,6 +24,7 @@
         "category": [
             "Base Class"
         ],
+        "count": "3",
         "progression": true
     },
     {
@@ -30,6 +32,7 @@
         "category": [
             "Base Class"
         ],
+        "count": "3",
         "progression": true
     },
     {
@@ -37,6 +40,7 @@
         "category": [
             "Base Class"
         ],
+        "count": "3",
         "progression": true
     },
     {
@@ -44,6 +48,7 @@
         "category": [
             "Base Class"
         ],
+        "count": "3",
         "progression": true
     },
     {
@@ -51,6 +56,7 @@
         "category": [
             "Base Class"
         ],
+        "count": "3",
         "progression": true
     }
 ]
